@@ -1,6 +1,7 @@
 # covid_flutter_ui
 
-A new Flutter project.
+Projeto baseado no video
+-    https://www.youtube.com/watch?v=zx6uMCoW2gQ
 
 ## Getting Started
 
